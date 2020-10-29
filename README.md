@@ -54,6 +54,11 @@ My name is Tabata and I'm 17. I'm passionate <br> about technology and programmi
   <a href='#' target='_blank'>
     <img src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="twitter" width="20" height="20"/>
   </a>
+  <a href='mailto:tabatafssilva@gmail.com' target='_blank'>
+    <img src="https://user-images.githubusercontent.com/49129260/97593819-d1504700-19e0-11eb-8b1b-1d93aefe969f.png" alt="email" width="20" height="20"/>
+  </a>
+  
+  
   </br>
   <strong align='center'>Check back often!</strong> <br>
   
