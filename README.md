@@ -1,6 +1,6 @@
 
 <p align='center'>
-  <strong>Hi there, I'm Tabata 👋</strong>
+  <strong>Hi there 👋</strong>
   <br><br>
 
 <img src="https://profile-counter.glitch.me/tabatafeeh/count.svg" align="center" />
@@ -8,7 +8,7 @@
 </p>
 
 <p align='center'>
-My name is Tabata and I'm 17. I'm passionate <br> about technology and programming, and also a <br>cybersecurity enthusiast. 💚                      
+My name is Tabata and I'm 18. I'm passionate <br> about technology and programming, and also a <br>cybersecurity enthusiast. 💚                      
 </p>
 <br>
 <p align='center'>
